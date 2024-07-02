@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "6815",
+      "email": "masshuramadhurja@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e4af",
+      "email": "masshuramadhurja99@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "06e8",
+      "email": "mm@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": "0fff",
+      "email": "masshura@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "jobs": []
+}
