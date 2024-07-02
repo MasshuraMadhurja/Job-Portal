@@ -46,9 +46,10 @@ npx json-server --watch db.json --port 5000
 ```
 4. Start the React application:
 ```sh
-Copy code
 npm start
 ```
 The application should now be running on http://localhost:3000.
+
+
 
 
